@@ -1,0 +1,7 @@
+﻿  Lab2HW.cpp
+C:\Files\PWFiles\Kasia\semestr 4\PSG\Lab2HW\Lab2HW\Lab2HW.cpp(501,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Files\PWFiles\Kasia\semestr 4\PSG\Lab2HW\Lab2HW\Lab2HW.cpp(502,27): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Files\PWFiles\Kasia\semestr 4\PSG\Lab2HW\Lab2HW\Lab2HW.cpp(503,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Files\PWFiles\Kasia\semestr 4\PSG\Lab2HW\Lab2HW\Lab2HW.cpp(504,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Files\PWFiles\Kasia\semestr 4\PSG\Lab2HW\Lab2HW\Lab2HW.cpp(839): warning C4172: returning address of local variable or temporary: game
+  Lab2HW.vcxproj -> C:\Files\PWFiles\Kasia\semestr 4\PSG\Lab2HW\Debug\Lab2HW.exe

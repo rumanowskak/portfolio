@@ -26,6 +26,8 @@ The clone implements all rules of the original game. The target value can be cha
 
 Upon exiting the current game state is saved and when user reopens the game the previous state is loaded.
 
+The application also supports simple animations when a new block appears.
+
 ---
 ## Function Approximator
 MATLAB application that approximates functions using Legendre's polynomials. In order to do that the application also approximates value of integrals and uses numerical methods to optimise parameters.
